@@ -79,7 +79,7 @@
     </content>
     <orderEntry type="jdk" jdkName="Android API 20 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" exported="" name="libjingle_peerconnection-7105" level="project" />
+    <orderEntry type="library" exported="" name="libjingle_peerconnection-7113" level="project" />
   </component>
 </module>
 

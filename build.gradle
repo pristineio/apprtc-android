@@ -11,7 +11,7 @@ buildscript {
 }
 
 allprojects {
-    webrtcRevision = "7105"
+    webrtcRevision = "7113"
 
     repositories {
         mavenCentral()
