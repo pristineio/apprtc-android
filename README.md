@@ -5,7 +5,7 @@ Development
 =============
 This project was created using Android Studio and will be maintined moving forward as such. The goal for this project is to maintain an easily consumable AppRTC demo application without the hassle of maintaing a WebRTC repository.
 
-All libjingle_dependencies used within this project are built with our [build scripts](https://github.com/pristineio/webrtc-build-scripts) and available in Maven central.
+All libjingle dependencies used within this project are built with our [build scripts](https://github.com/pristineio/webrtc-build-scripts) and available in Maven central.
 
 
 Modifications
