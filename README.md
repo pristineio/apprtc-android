@@ -1,9 +1,9 @@
-This Android project is a mirror of the Android AppRTC demo found in the [webrtc project](https://code.google.com/p/webrtc/). However, this Android application will be maintained as an Android Studio project. **Note that the sources in this project are not in any way ours. We are just mirroring what is all ready available to developers in an Android project form so developers can work with a functioning AppRTC prototype without cloning and building WebRTC**
+This Android project is a mirror of the Android AppRTC demo found in the [webrtc project](https://code.google.com/p/webrtc/). However, this Android application will be maintained as an Android Studio project. **Note that the sources in this project are not in any way ours. We are just mirroring what is already available to developers in an Android project form so developers can work with a functioning AppRTC prototype without cloning and building WebRTC**
 
 
 Development
 =============
-This project was created using Android Studio and will be maintined moving forward as such. The goal for this project is to maintain an easily consumable AppRTC demo application without the hassle of maintaing a WebRTC repository.
+This project was created using Android Studio and will be maintained moving forward as such. The goal for this project is to maintain an easily consumable AppRTC demo application without the hassle of maintaing a WebRTC repository.
 
 All libjingle dependencies used within this project are built with our [build scripts](https://github.com/pristineio/webrtc-build-scripts) and available in Maven central.
 
